@@ -788,11 +788,6 @@ img {
     line-height: 1.2;
     letter-spacing: -0.5px;
     text-align: left;
-    background: linear-gradient(135deg, rgba(255, 192, 0, 0.9), rgba(248, 207, 58, 0.85));
-    padding: 1.5rem 2rem;
-    border-radius: 12px;
-    display: inline-block;
-    box-shadow: 0 4px 15px rgba(255, 192, 0, 0.3);
 }
 
 .hero-subtitle {
@@ -802,11 +797,6 @@ img {
     margin-bottom: 2rem;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
     text-align: left;
-    background: linear-gradient(135deg, rgba(255, 192, 0, 0.9), rgba(248, 207, 58, 0.85));
-    padding: 1rem 2rem;
-    border-radius: 10px;
-    display: inline-block;
-    box-shadow: 0 4px 15px rgba(255, 192, 0, 0.3);
 }
 
 .hero-buttons {
